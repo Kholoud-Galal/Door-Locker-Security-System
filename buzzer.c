@@ -1,9 +1,14 @@
-/*
- * buzzer.c
+ /******************************************************************************
  *
- *  Created on: Jun 18, 2022
- *      Author: engim
- */
+ * Module: Buzzer
+ *
+ * File Name: Buzzer.c
+ *
+ * Description: Source file for the AVR Buzzer driver
+ *
+ * Author: Kholoud Galal
+ *
+ *******************************************************************************/
 
 #include"buzzer.h"
 #include"std_types.h"
